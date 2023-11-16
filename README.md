@@ -112,7 +112,7 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/AYUSH-PANDEY023/Maria-Md
+git clone https://github.com/FlorexRDP1/Florex-MD
 
 cd Maria-Md
 
